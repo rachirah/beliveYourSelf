@@ -22,6 +22,4 @@ button.addEventListener('click', async () => {
 
 
 
-
-
 selectMediaStream();

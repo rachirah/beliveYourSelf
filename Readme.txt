@@ -1,1 +1,1 @@
-Thank you for the video
+Thank you
